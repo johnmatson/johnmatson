@@ -1,4 +1,4 @@
-## Hey! Glad you stopped by, let's get to know each other!
+![](github-header.png)
 
 **My name's John. I'm an electrical engineering student & DSP developer from Vancouver, Canada. I love hardware technology, software development and DSP of all kinds, and am actively looking for opportunities!**
 
@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Hey! Glad you stopped by, let's get to know each other!
 
 ##### BIO
 
