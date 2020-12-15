@@ -1,6 +1,6 @@
 ![](github-header.png)
 
-**My name's John. I'm an electrical engineering student & DSP developer from Vancouver, Canada. I love hardware technology, software development and DSP of all kinds, and am actively looking for opportunities!**
+**I'm an electrical engineering student & DSP developer from Vancouver, Canada. I love hardware technology, software development and DSP of all kinds, and am actively looking for opportunities!**
 
 - 👨🏼‍💻 I'm best at `.py`, `.cpp`, `.m`, `.sv`
 - 📖 In 2021, I will graduate from BCIT's Electrical Engineering program
