@@ -1,6 +1,6 @@
 ![](github-header.png)
 
-**I'm an electrical engineering student & DSP developer from Vancouver, Canada. I love hardware technology, software development and signal processing of all kinds, and am actively looking for opportunities!**
+**I'm a computer engineering masters student from Vancouver, Canada. I love signal processing, machine learning and software development of all kinds, and am actively looking for opportunities!**
 
 - ⚙️ I'm best at `.py`, `.cpp`, `.m`, `.sv`
 - 📖 In May 2021, I will graduate from BCIT's Electrical Engineering program
